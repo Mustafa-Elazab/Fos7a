@@ -1,0 +1,30 @@
+{
+
+  "fos7a_tx": "فسحة",
+  "suggest_tx": "اماكن مقترحة",
+  "categories_tx": "فئات",
+  "home_tx": "الرئسيه",
+  "favourite_tx": "المفضلة",
+  "settings_tx": "الاعدادات",
+  "information_tx":"نبذة مختصرة",
+  "contact_tx":"تواصل",
+  "facebook_tx":"فيس بوك",
+  "instagram_tr":"انستجرام",
+  "opening_tx":"وقت العمل",
+  "close_tx":"ايام العطله",
+  "address":"العنوان",
+  "light_mode_tx":"وضع الضوء ",
+  "dark_mode_tx":"الوضع الليلي ",
+  "language_tx":"اللغة",
+  "add_place_tx":"اضافة مكان",
+  "add_place_contain_tx": " تستطيع التواصل معانا لعرض مكانك ",
+  "contact_us_tx": "تواصل معانا",
+  "contact_us_contain_tx": "",
+  "contact_us_name_tx": "الاسم ",
+  "contact_us_phone_tx": "الهاتف",
+  "contact_us_feed_tx": "",
+  "contact_us_save_tx": "حفظ",
+  "share__friend_tx": "المشاركة مع الاصدقاء",
+  "about_tx": "عنا "
+  
+}

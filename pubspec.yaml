@@ -1,0 +1,66 @@
+name: fos7a
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+
+  cupertino_icons: ^1.0.2
+  provider: 
+  fluttericon: 
+  path_provider: 
+  url_launcher: 
+  card_swiper: 
+  carousel_slider: 
+  page_transition: 
+  easy_localization: 
+  firebase_core: ^1.12.0
+  cloud_firestore: ^1.0.7
+  fancy_shimmer_image: 
+  hive: 
+  hive_flutter:
+  geolocator: ^9.0.1
+  google_maps_flutter: ^2.1.10
+  geocoding: ^2.0.4
+  lottie: ^1.4.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  build_runner: 
+  hive_generator:
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/json/
+    - assets/translations/ar.json
+    - assets/translations/en.json
+
+  fonts:
+    - family: Horizon     
+      fonts:
+        - asset: assets/font/Horizon.ttf
+    - family: Maxima     
+      fonts:
+        - asset: assets/font/Maxima.ttf
+    - family: Quaker     
+      fonts:
+        - asset: assets/font/Quaker 400.ttf 
